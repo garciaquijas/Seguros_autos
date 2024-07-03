@@ -12,6 +12,6 @@ _En el informe se realiza un desglose de los 4,000 seguros ofrecidos durante un 
 
 ***Por estado civil los solteros son los que más contraron, 561 de los 1213 ofrecidos; los casados son los que menos contrataron, 833 de los 2304 ofrecidos, y los divorciados solo 210 de los 483 ofrecidos***.
 
-_Se recomienda incluir a la base de registros las categorías de Género, Tipo de auto: usado, seminuevo o nuevo e Ingresos para conocer el comportamiento de los compradores de seguros tomando en cuenta esas categorías_.
+_Se recomienda incluir a la base de registros las categorías de Género, Tipo de auto: usado, seminuevo o nuevo e Ingresos para establecer estrategias de venta basadas en esas categorías_.
 
 Este análisis permitirá a la aseguradora monitorizar el desempeño de sus vendedores, evaluar la información que están obteniendo de los clientes y tomar medidas para alcanzar los objetivos de ventas.  
