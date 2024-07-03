@@ -8,7 +8,7 @@ _En el informe se realiza un desglose de los 4,000 seguros ofrecidos durante un 
 
 ***La ocupación de Gerente fue la que más contrató seguros de auto con un total de 392; mientras que las Amas de casa y los Emprededores fueron las ocupaciones que menos contrataron seguros con un total de 72 entre las dos***.
 
-***Por grado de educación escolar las personas con estudios Universitarios son las que más seguros contrataron con un total de 600, con educación secundaria solo 730 y finalmente las personas con educación primaria solo contrataron 195***.
+***Por grado de educación escolar las personas con estudios Universitarios son las que más seguros contrataron con un total de 600 de 1282, con educación secundaria solo 730 de 1988 y finalmente las personas con educación primaria solo contrataron 195 de 561***.
 
 ***Por estado civil los solteros son los que más contraron, 561 de los 1213 ofrecidos; los casados son los que menos contrataron, 833 de los 2304 ofrecidos, y los divorciados solo 210 de los 483 ofrecidos***.
 
